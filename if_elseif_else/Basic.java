@@ -15,8 +15,6 @@ public class Basic {
                 return;
             }
 
-
-            
             // FileWriter fw = new FileWriter(file);
             // BufferedWriter bw = new BufferedWriter(fw);
             // String content = sc.nextLine();
