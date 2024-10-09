@@ -14,7 +14,6 @@ public class Basic {
                 System.out.println("File Not Exit");
                 return;
             }
-
             // FileWriter fw = new FileWriter(file);
             // BufferedWriter bw = new BufferedWriter(fw);
             // String content = sc.nextLine();
